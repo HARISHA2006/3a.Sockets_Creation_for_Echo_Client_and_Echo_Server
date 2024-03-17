@@ -30,7 +30,7 @@ while True:
     ClientMessage=c.recv(1024).decode() 
     c.send(ClientMessage.encode())
 ```
-## OUPUT
+## OUTPUT
 CLIENT:
 ![Screenshot 2024-03-17 211059](https://github.com/HARISHA2006/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/148843830/30ff104d-40e6-45a6-8b6c-225ed5948653)
 
