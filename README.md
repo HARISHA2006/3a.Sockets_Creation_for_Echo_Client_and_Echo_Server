@@ -32,9 +32,11 @@ while True:
 ```
 ## OUTPUT
 CLIENT:
+
 ![Screenshot 2024-03-17 211059](https://github.com/HARISHA2006/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/148843830/30ff104d-40e6-45a6-8b6c-225ed5948653)
 
 SERVER:
+
 ![Screenshot 2024-03-17 211249](https://github.com/HARISHA2006/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/148843830/f9990833-595a-48ce-9674-6b3ed0c7ae95)
 
 ## RESULT
